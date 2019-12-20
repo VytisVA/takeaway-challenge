@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 ruby '2.5.0'
 
-gem 'capybara', '>= 3.25.0'
+gem 'capybara', '>= 3.28.0'
 gem 'rake'
 gem 'rspec'
 gem 'rubocop'
